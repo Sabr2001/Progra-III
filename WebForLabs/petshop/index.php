@@ -49,6 +49,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="preguntasfrecuentes.php">Preguntas frecuentes</a>
                         </li>
+                        <li>
+                            <a class="nav-link" href="galeria.php">Galeria</a>
+                        </li>
                     </ul>
 
                 </div>
