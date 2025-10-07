@@ -28,7 +28,7 @@
                         <img src="img/urinarycare-adulto.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="titulo">Urinary Care</h5>
-                            <p class="card-text">Formula activa de proteinas y minerales para mantener un sistema urinario estable.</p>
+                            <p class="card-text">Formula activa de proteinas y minerales.</p>
                             <a href="carrito.php" class="btn btn-primary">Agregar a carrito 🛒</a>
                         </div>
                     </div>

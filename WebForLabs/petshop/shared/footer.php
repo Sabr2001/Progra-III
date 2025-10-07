@@ -2,16 +2,16 @@
     <div class="container">
         <div class="row text-center text-md-start">
             <div class="col-md-6 col-lg-3 mb-3">
-                <h5>Dirección de Agua</h5>
-                <a href="#" class="d-block text-white text-decoration-none">Historia</a>
+                <h5>Estamos Ubicados</h5>
+                <a href="#" class="d-block text-white text-decoration-none">Dentro de las instalaciones de la UIA.</a>
             </div>
             <div class="col-md-6 col-lg-3 mb-3">
-                <h5>Trámites</h5>
-                <a href="#" class="d-block text-white text-decoration-none">Expedientes en línea</a>
+                <h5>Especialidad</h5>
+                <a href="#" class="d-block text-white text-decoration-none">Especies menores</a>
             </div>
             <div class="col-md-6 col-lg-3 mb-3">
                 <h5>Servicios</h5>
-                <a href="#" class="d-block text-white text-decoration-none">Permisos de Vertidos</a>
+                <a href="#" class="d-block text-white text-decoration-none">Venta de accesorios e insumos veterinarios</a>
             </div>
             <div class="col-md-6 col-lg-3 mb-3">
                 <h5>Contacto</h5>
@@ -23,8 +23,8 @@
         </div>
 
         <div class="text-center mt-4">
-            <img width="100" src="img/mapa-azul.jpg" alt="Mapa azul del ministerio" class="mb-2">
-            <p class="mb-0">© 2025 <strong>Dirección de Agua</strong></p>
+            <img width="100" src="img/logo-mascotas.png" alt="Los mejores para sus mascotas" class="mb-2">
+            <p class="mb-0">© 2025 <strong>PETSHOP</strong></p>
         </div>
     </div>
 </footer>
