@@ -1,0 +1,2 @@
+RewriteEngine On
+ErrorDocument 404 http://localhost/MinisterioAguas/404.php
